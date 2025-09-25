@@ -16,7 +16,7 @@ Este projeto é uma atividade de aprimoramento de um sistema de autenticação d
 ## Como Executar
 1. **Clone o repositório:**
    ```bash
-   git clone [url-do-seu-repositorio-github]
+   git clone [sistema-de-autenticacao](https://github.com/n33miaz/sistema-de-autenticacao)
    ```
 2. **Navegue até a pasta do projeto:**
    ```bash
